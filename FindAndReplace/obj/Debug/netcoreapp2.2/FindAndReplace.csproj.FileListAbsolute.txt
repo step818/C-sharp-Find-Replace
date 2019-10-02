@@ -1,0 +1,11 @@
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\obj\Debug\netcoreapp2.2\FindAndReplace.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\obj\Debug\netcoreapp2.2\FindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\obj\Debug\netcoreapp2.2\FindAndReplace.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\obj\Debug\netcoreapp2.2\FindAndReplace.AssemblyInfo.cs
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\bin\Debug\netcoreapp2.2\FindAndReplace.deps.json
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\bin\Debug\netcoreapp2.2\FindAndReplace.runtimeconfig.json
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\bin\Debug\netcoreapp2.2\FindAndReplace.runtimeconfig.dev.json
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\bin\Debug\netcoreapp2.2\FindAndReplace.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\bin\Debug\netcoreapp2.2\FindAndReplace.pdb
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\obj\Debug\netcoreapp2.2\FindAndReplace.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace\obj\Debug\netcoreapp2.2\FindAndReplace.pdb

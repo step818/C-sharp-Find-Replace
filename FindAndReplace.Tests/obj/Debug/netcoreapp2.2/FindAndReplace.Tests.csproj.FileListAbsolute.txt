@@ -1,0 +1,17 @@
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\obj\Debug\netcoreapp2.2\FindAndReplace.Tests.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\obj\Debug\netcoreapp2.2\FindAndReplace.Tests.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\obj\Debug\netcoreapp2.2\FindAndReplace.Tests.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\obj\Debug\netcoreapp2.2\FindAndReplace.Tests.AssemblyInfo.cs
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\FindAndReplace.Tests.deps.json
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\FindAndReplace.Tests.runtimeconfig.json
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\FindAndReplace.Tests.runtimeconfig.dev.json
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\FindAndReplace.Tests.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\FindAndReplace.Tests.pdb
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\FindAndReplace.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\bin\Debug\netcoreapp2.2\FindAndReplace.pdb
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\obj\Debug\netcoreapp2.2\FindAndReplace.Tests.csproj.CopyComplete
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\obj\Debug\netcoreapp2.2\FindAndReplace.Tests.dll
+C:\Users\steph\Desktop\FindAndReplace.Solution\FindAndReplace.Tests\obj\Debug\netcoreapp2.2\FindAndReplace.Tests.pdb
