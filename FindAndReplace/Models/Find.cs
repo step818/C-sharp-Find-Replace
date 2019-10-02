@@ -18,12 +18,23 @@ namespace FindAndReplace.Models
     public int NumberOfTimes()
     {
       int count = 0;
-      for(int i = 0; i < Paragraph.Length; i++)
+      for(int i = 0, j = 0; i < Paragraph.Length; i++)
       {
-        if (i == Paragraph.IndexOf(Word))
+        if(Paragraph[i] == Word[j])
         {
-          count+=1;
-          Console.WriteLine(i);
+          if(j == Word.Length-1) // if word is found
+          {
+            count++;
+            j = 0; // reset
+          }
+          else
+          {
+            j++;
+          }
+        }
+        else
+        {
+          j = 0; // reset
         }
       }
       return count;
