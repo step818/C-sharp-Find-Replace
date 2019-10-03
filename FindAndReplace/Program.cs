@@ -12,7 +12,7 @@ namespace FindAndReplace
       Console.WriteLine("Write a nice poem for me please: ");
       string sentence = Console.ReadLine();
       // Console.WriteLine("I will replace any word or whatever that's found in the paragraph you just wrote with another word.");
-      Console.WriteLine("What is the word or sequence of characters you would like me to replace: ");
+      Console.WriteLine("Type any word that is in your poem: ");
       string word = Console.ReadLine();
       Find newFind = new Find(sentence, word);
       bool resContains = newFind.ThisWord();

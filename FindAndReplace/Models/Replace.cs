@@ -16,23 +16,31 @@ namespace FindAndReplace.Models
       string uPhrase = InheritedInfo.Paragraph;
       string uWord = InheritedInfo.Word;
       string result = "";
+      int uWordEnd = (uWord.Length - 1); //placeholder while entire uWord is checked
+      int startIndex = 0;
+      string potentialName = "";
       for(int i = 0, j = 0; i < uPhrase.Length; i++)
       {
         if(uPhrase[i] == uWord[j])
         {
-          if(j == uWord.Length - i)
+          if(j == uWordEnd)
           {
-            result += Name;
-            j = 0; // reset
+            startIndex = i - j;
+            result=result + Name;
+            j = 0;
+            potentialName = "";
           }
           else
           {
+            potentialName = potentialName + uPhrase[i];
             j++;
           }
         }
         else
         {
-          result += uPhrase[i];
+          result += potentialName + uPhrase[i] ;
+          j = 0;
+          potentialName = "";
         }
       }
       return result;
